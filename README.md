@@ -1,5 +1,5 @@
 # Hi there, I'm Ankit Mudgil 👋  
-# Hi there, I'm Ankit Mudgil 👋  
+
 🔹 MSc Cybersecurity Student | System Administrator | Network Security Engineer  
 🔹 Passionate about Cybersecurity, Network Defense, and Automation  
 🔹 Always exploring new technologies in Cloud Security & Incident Response  
