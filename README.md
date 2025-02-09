@@ -21,6 +21,8 @@
 ## 📌 Notable Experience  
 💡 **Installed and configured a full-scale physical Windows Server and Active Directory (AD) environment** at **Fraser Valley India**. Managed **GPO policies, user authentication, and network integration**, ensuring a **secure and scalable IT infrastructure**.  
 
+💡 **Deployed and configured a Neboero firewall** to **enhance network security, monitor traffic, and enforce strict access control policies**. Implemented **VPN configurations, intrusion detection, and advanced firewall policies** to protect against cyber threats.  
+
 ---
 
 ## 📌 Featured Projects  
