@@ -37,10 +37,4 @@ Here are some of my hands-on security and networking projects:
 
 📍 Check out my repositories for more!  
 
-
-## 📊 GitHub Stats  
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mudgil-A&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudgil-A&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mudgil-A&theme=dark)  
-
 🚀 Always learning & contributing to open-source security projects!  
