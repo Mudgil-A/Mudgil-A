@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/mudgil-ankit/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Mudgil-A)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ffb0?style=for-the-badge&logo=google-chrome&logoColor=black)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ffb0?style=for-the-badge&logo=google-chrome&logoColor=black)](https://mudgil-a.github.io/)
 
 ---
 
