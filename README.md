@@ -1,40 +1,111 @@
-# Hi there, I'm Ankit Mudgil 👋  
+# 👋 Hi, I'm Ankit Mudgil
 
-🔹 MSc Cybersecurity Student | System Administrator | Network Security Engineer  
-🔹 Passionate about Cybersecurity, Network Defense, and Automation  
-🔹 Always exploring new technologies in Cloud Security & Incident Response  
-
-📫 **Let's connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mudgil-ankit/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Mudgil-A)  
-
-## 🔧 Technologies & Skills
-✅ **Cybersecurity Tools:** SIEM, IDS/IPS, Firewalls, Threat Hunting  
-✅ **Networking:** LAN/WAN, VLANs, VPNs, Firewall Policies, Active Directory  
-✅ **Windows Server:** GPO, Domain Services, Network Monitoring  
-✅ **Cloud Security:** Securing Virtual Machines, IAM, Network Policies  
-✅ **Incident Response:** Security Log Analysis, Threat Detection, Risk Mitigation  
-✅ **Programming:** Python (Security Automation), SQL  
-✅ **Certifications:** Python, Digital Marketing, Web Design
-✅ **OS:** ParrotOs, Kali, Windows Server 2022  
-
-## 📌 Notable Experience  
-💡 **Installed and configured a full-scale physical Windows Server and Active Directory (AD) environment** at **Fraser Valley India**. Managed **GPO policies, user authentication, and network integration**, ensuring a **secure and scalable IT infrastructure**.  
-
-💡 **Deployed and configured a Neboero firewall** to **enhance network security, monitor traffic, and enforce strict access control policies**. Implemented **VPN configurations, intrusion detection, and advanced firewall policies** to protect against cyber threats.  
+🔹 MSc Cybersecurity (NCI Dublin) | System Administrator | Security Operations
+🔹 3+ years experience supporting 200+ users in enterprise environments
+🔹 Focused on SIEM, Threat Detection, and Secure Infrastructure
 
 ---
 
-## 📌 Featured Projects  
-Here are some of my hands-on security and networking projects:  
+## 📫 Connect With Me
 
-🔹 **Firewall Rule Audit Tool** – Automates firewall policy validation for improved security.  
-🔹 **SIEM Log Analysis Dashboard** – Visualizing threat intelligence using security logs.  
-🔹 **Cybersecurity Incident Response Plan** – Documentation & playbook for rapid threat response.
-🔹 **Forensics & eDiscovery Report** – Analysis of digital evidence in cybersecurity cases.
-🔹 **Firewall Rule Auditing Automation** – Python script to detect weak firewall rules  
-🔹 **SIEM Log Analysis Dashboard** – Threat visualization using ELK Stack  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/mudgil-ankit/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Mudgil-A)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ffb0?style=for-the-badge&logo=google-chrome&logoColor=black)](https://your-portfolio-link.com)
 
-📍 Check out my repositories for more!  
+---
 
-🚀 Always learning & contributing to open-source security projects!  
+## 🚀 About Me
+
+I’m a **Cybersecurity graduate and System Administrator** with hands-on experience in:
+
+* IT support & infrastructure (200+ users)
+* Security operations & SIEM deployment
+* Cloud identity & endpoint management
+
+💡 I specialize in turning **complex infrastructure into secure, reliable systems** with a strong focus on **security-first design**.
+
+---
+
+## 🛡️ Core Skills
+
+### 🔐 Cybersecurity & SIEM
+
+* Wazuh SIEM (deployment + tuning)
+* Threat Detection & Alert Triage
+* Vulnerability Assessment
+* Security Monitoring & Incident Response
+
+### ☁️ Cloud & Identity
+
+* Microsoft Azure
+* Azure AD / Entra ID
+* Microsoft 365 (Exchange, Teams, SharePoint)
+* Conditional Access, MFA, SSO
+
+### 🖥️ Systems Administration
+
+* Windows Server 2016/2019/2022
+* Active Directory & Group Policy (GPO)
+* DNS, DHCP, File Services
+* VMware & Virtualization
+
+### 🌐 Networking
+
+* TCP/IP, VLANs, VPNs
+* Firewall Configuration & Security Policies
+* Network Troubleshooting
+
+### ⚡ Automation & Tools
+
+* PowerShell
+* Python (Security Automation)
+* ServiceNow, Jira, Freshservice
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 System Administrator / IT Security Specialist
+
+**Fraser Valley India (UFV)**
+
+* Managed **200+ users** across hybrid infrastructure
+* Deployed **Wazuh SIEM across 50+ endpoints**
+* Reduced alert noise by **71% using custom correlation rules**
+* Administered **Azure AD, Intune, and Microsoft 365**
+* Delivered Level 2 support & automation using PowerShell
+
+---
+
+## 📂 Featured Projects
+
+🔹 **SIEM Tuning & Threat Detection**
+
+* Wazuh deployment + custom rule tuning
+* 71% reduction in false positives
+
+🔹 **Phishing Detection using Machine Learning**
+
+* Random Forest & SVM model
+* Achieved **97% detection accuracy**
+
+🔹 **Malware Analysis – WannaCry**
+
+* Static & dynamic analysis in sandbox environment
+* Documented attack patterns & mitigation
+
+🔹 **AWS WordPress Security Hardening**
+
+* IAM, security groups, WAF implementation
+
+---
+
+## 📜 Certifications
+
+* Microsoft SC-900 (In Progress)
+* Microsoft MD-102 (In Progress)
+* CompTIA Security+ (In Progress)
+
+---
+
+🚀 *Actively seeking IT Support, System Administrator, and Security Analyst roles in Ireland & Canada*
